@@ -1,0 +1,59 @@
+#container{
+    /* margin: auto; */
+    /* padding: 15px 80px 10px 80px; */
+    width: 80%;
+    margin: auto;
+}
+#header{
+    height: 90px;
+    /* margin: 15px 70px 10px 70px; */
+    background-color: rgb(79, 128, 218);
+    border-radius: 10px;
+    /* align-items: center; */
+}
+#pana-cloud-logo{
+    padding-top: 10px;
+}
+#header-list{
+    display: inline;
+    list-style: none;
+}
+header-list > li{
+    display: inline;
+    font-size: 30px;
+    border-right: 3px solid black;
+    border-color:green;
+    padding: 0px 10px 0 10px;
+}
+#end-item{
+    border: none;
+}
+a{
+    color: black;
+}
+#home-image{
+    margin: 10px 0 10px 0;
+}
+#home-text{
+    font-size: 25px;
+}
+#footer{
+    background-color:  rgb(79, 128, 218);
+    text-align: center;
+    height: 50px;
+    padding: 5px;
+    border-radius: 10px;
+}
+#about-text{
+    font-size: 25px;
+}
+#about-image{
+    display: inline;
+    float: right;
+    border-radius: 10px;
+    padding: 15px;
+}
+#about-list {
+    font-size: 25px;
+}
+
